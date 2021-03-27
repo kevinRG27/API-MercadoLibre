@@ -60,7 +60,7 @@ const Observador = () => {
                   <Returner></Returner>
               </div>
               <div className="contenedor-descrip">
-                <p>Descripción:</p> 
+                <p className="descrip_p">Descripción:</p> 
                 <p className="p_descrip">{ description}</p>
               </div>  
            </div>

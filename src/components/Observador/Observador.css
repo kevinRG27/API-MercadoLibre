@@ -4,7 +4,6 @@
     margin-top: 10px;
     margin-bottom: 10px;
 }
-
 .contenedor__{
     display: flex;
     justify-content: space-between;
@@ -12,6 +11,7 @@
 
 .contenedor-img{
     width: 300px;
+    margin-left: 70px;
 }
 
 .contenedor-detalle{
@@ -48,8 +48,14 @@
     margin-right: 40px;
 }
 .p_descrip{
-    width: 80%;
+    width: 90%;
     text-align: center;
+    margin-left: 30px;
+}
+
+.descrip_p{
+    font-weight: bold;
+    font-size: larger;
 }
 
 .contenedor-abajo{
@@ -58,7 +64,7 @@
 }
 
 .contenedor_btn{
-    margin: 20px 0px 0px 200px;
+    margin: 20px 0px 0px 220px;
 }
 
 .contenedor-descrip{
