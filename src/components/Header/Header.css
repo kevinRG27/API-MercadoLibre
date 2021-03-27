@@ -1,0 +1,17 @@
+.header{
+    background: #ffe600;
+    display:flex;
+    justify-content: center;
+    padding:0;
+    align-items:center;
+    height: 80px;
+    margin: 0px 120px 0px 120px;
+    
+   }
+
+h1{
+    font-family: 'Harabara', sans-serif;
+    font-weight: bolder;
+    color: #273d4d;
+}
+

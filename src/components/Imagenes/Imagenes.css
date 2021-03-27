@@ -1,0 +1,9 @@
+.imagenHd{
+    width: 400px;
+    height: 450px;
+    border-radius: 3px;
+    border-color: #273d4d;
+    border-width: 1px;
+    border-style: solid;
+    margin: 20px 0px 0px 20px;
+}
